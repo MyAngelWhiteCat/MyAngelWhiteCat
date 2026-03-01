@@ -8,8 +8,9 @@
 
 ---
 
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp)
+![](https://img.shields.io/badge/--68217A?style=flat-square&logo=dotnet)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows)
 ![WinAPI](https://img.shields.io/badge/-WinAPI-0078D6?style=flat-square&logo=windows)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake)
