@@ -14,8 +14,7 @@
 ---
 
 
-[![Telegram](https://img.shields.io/badge/-@myanwc-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/myanwc)
-[![Email](https://img.shields.io/badge/-anton.kostyrev@yandex.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anton.kostyrev@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-@roxist-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/myanwc)
 
 
 ---
