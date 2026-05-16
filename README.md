@@ -9,7 +9,6 @@
 ![Boost](https://img.shields.io/badge/-Boost-00599C?style=flat-square&logo=boost)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-525252?style=flat-square&logo=hexrays)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
