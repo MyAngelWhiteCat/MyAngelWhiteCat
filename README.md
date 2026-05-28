@@ -13,7 +13,7 @@
 ---
 
 
-[![Telegram](https://img.shields.io/badge/-@roxist-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/myanwc)
+[![Telegram](https://img.shields.io/badge/-@mistika_support-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mistika_support)
 
 
 ---
