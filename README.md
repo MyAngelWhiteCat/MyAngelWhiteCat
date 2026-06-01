@@ -1,4 +1,4 @@
-
+C/C++ Developer. Reverse engineer. Malware Analyst
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=csharp)
